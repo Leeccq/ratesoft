@@ -1,0 +1,14 @@
+Header {
+	height: 3;
+	background: $panel;
+	padding: 0 1;
+}
+
+#clock {
+	dock: left;
+	content-align: left middle;
+}
+
+#test-button {
+	dock: right;
+}
